@@ -1,0 +1,12 @@
+site_name: 'python-app-test'
+site_description: 'Main documentation for the python-app-test'
+repo_url: https://github.com/hoxhaj/python-app-test
+edit_uri: edit/main/docs
+
+plugins:
+  - techdocs-core
+
+# For sidebar navigation on https://backstage.io/, see `microsite/sidebars.json`
+nav:
+  - Overview:
+      - Getting started: 'docs/index.md'
